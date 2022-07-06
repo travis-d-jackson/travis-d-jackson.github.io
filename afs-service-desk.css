@@ -4,11 +4,11 @@
   --defense: #008000;
   --accenture: #800080;
   /* Uncomment for AFS Help */
+  --banner: " SERVICE SUPPORT INTERNAL USE ONLY **";
+  --themeBgColor: darkblue;
   /*
-    --banner: " SERVICE SUPPORT INTERNAL USE ONLY **";
-    --themeBgColor: darkblue;
     --themeColor: ;
-    */
+  */
   /* Uncomment for Service Desk */
   /*
     --banner: " SERVICE DESK INTERNAL USE ONLY **";
